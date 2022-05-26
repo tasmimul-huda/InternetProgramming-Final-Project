@@ -1,0 +1,12 @@
+D:\ASP_Practice\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\ASP_Practice\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\ASP_Practice\WebApplication1\WebApplication1\obj\Debug\MEC_ASP.csprojResolveAssemblyReference.cache
+D:\ASP_Practice\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ASP_Practice\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ASP_Practice\MEC\root\bin\WebApplication1.dll
+D:\ASP_Practice\MEC\root\bin\WebApplication1.pdb
+D:\ASP_Practice\MEC\root\obj\Debug\MEC_ASP.csprojResolveAssemblyReference.cache
+D:\ASP_Practice\MEC\root\obj\Debug\WebApplication1.dll
+D:\ASP_Practice\MEC\root\obj\Debug\WebApplication1.pdb
+D:\ASP_Practice\MEC\root\obj\Debug\MEC_ASP.csprojAssemblyReference.cache
+D:\ASP_Practice\MEC\root\obj\Debug\MEC_ASP.csproj.CoreCompileInputs.cache
